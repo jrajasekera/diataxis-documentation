@@ -40,26 +40,26 @@ The skill name is lowercase kebab-case and avoids vendor-reserved words, so it i
 ## Install
 
 The quickest way to install from GitHub is to clone this repo directly into your
-agent's skills directory. Replace `your-username` with the account that hosts the repo.
+agent's skills directory.
 
 Claude Code:
 
 ```bash
-git clone https://github.com/your-username/diataxis-documentation.git \
+git clone https://github.com/jrajasekera/diataxis-documentation.git \
   ~/.claude/skills/diataxis-documentation
 ```
 
 Codex:
 
 ```bash
-git clone https://github.com/your-username/diataxis-documentation.git \
+git clone https://github.com/jrajasekera/diataxis-documentation.git \
   ~/.agents/skills/diataxis-documentation
 ```
 
 Pi:
 
 ```bash
-git clone https://github.com/your-username/diataxis-documentation.git \
+git clone https://github.com/jrajasekera/diataxis-documentation.git \
   ~/.pi/agent/skills/diataxis-documentation
 ```
 
